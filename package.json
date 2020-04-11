@@ -1,0 +1,14 @@
+{
+  "name": "demo-fastify",
+  "version": "1.0.0",
+  "description": "REST/Auth demo with Fastify",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.13.0"
+  }
+}
