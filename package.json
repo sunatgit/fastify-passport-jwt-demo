@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fastify": "^2.13.0"
+    "fastify": "^2.13.0",
+    "fastify-autoload": "^1.2.2",
+    "fastify-plugin": "^1.6.1",
+    "sequelize": "^5.21.6",
+    "sqlite3": "^4.1.1"
   }
 }
